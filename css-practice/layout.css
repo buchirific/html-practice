@@ -1,0 +1,42 @@
+#nav
+{
+background-color: green;
+height: 70px;
+
+}
+
+
+#head
+{
+background-color: green;
+height: 200px;
+
+}
+
+
+
+#body
+{
+display: flex;
+background-color: white;
+height: 450px; 
+flex-wrap: wrap;
+
+justify-content: center;	
+}
+
+
+#body div
+{
+display: flex;
+margin: 22px;
+width: 400px;
+background-color: green;
+}
+
+
+#foot
+{
+background-color: green;
+height: 100px;
+}

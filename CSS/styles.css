@@ -1,0 +1,34 @@
+body {
+
+		background-color: lightblue;
+
+	}
+
+
+
+p,h1,b,ol,ul,br,a{
+
+	font-family: 'Mansalva', cursive;
+	color: red;
+	size: 40px;
+	font-weight: 40px;
+
+}
+
+#buchiautos
+{
+
+color: lightblue;
+background-color: red; 
+width:100%;
+height: 40px;
+
+}
+
+.welcome
+{
+color: lightblue;
+background-color: red;
+border-radius: 10%;
+
+}
